@@ -3,7 +3,7 @@
 A notch-style overlay for Windows 11. It stays hidden until Spotify plays, then
 appears fixed to the top-centre of your screen as a small notch with the album art,
 title and a progress line. Hover over it to expand: art, title, artist, progress bar
-and previous / play-pause / next buttons, with a glow taken from the album art colours.
+and previous / play-pause / next buttons, with a dynamic lighting taken from the album art colours.
 It never expands by itself (not even on song changes) and hides ~20s after pausing.
 
 ## Requirements
